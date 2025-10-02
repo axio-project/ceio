@@ -1,0 +1,6 @@
+[submodule "axio/axio-emulator"]
+	path = axio/axio-emulator
+	url = https://github.com/axio-project/axio-emulator.git
+[submodule "axio/axio-bf3-express"]
+	path = axio/axio-bf3-express
+	url = https://github.com/axio-project/axio-bf3-express.git
