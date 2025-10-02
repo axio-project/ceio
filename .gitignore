@@ -1,0 +1,10 @@
+### macOS ###
+# General
+.DS_Store
+.AppleDouble
+.LSOverride
+### vscode ###
+.vscode
+.cache
+### Axio ###
+
