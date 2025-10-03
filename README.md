@@ -1,6 +1,11 @@
 # CEIO
 This is a quick start for running the CEIO project. CEIO is a cache-efficient network I/O architecture for NIC-CPU data paths, which has been accepted by ACM SIGCOMM 2025. Currenty, we are working actively on the integration of CEIO into Axio library for easier usage.
 
+```bash
+# Clone the repository with submodules
+git clone --recurse-submodules https://github.com/axio-project/ceio.git
+```
+
 ## Catalog
 1. [Dependencies](#dependencies)
 2. [Quick Start](#quick-start)
